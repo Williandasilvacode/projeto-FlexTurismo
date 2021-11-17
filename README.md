@@ -1,2 +1,2 @@
-# projeto-FlexTurismo
- Esse é um projeto aonde o principal objetivo é pratica flexboxem CSS
+# Objetivo do Projeto
+ Apresentar os fundamentos e aplicações da propriedade flexbox na criação de layouts responsivo, sem a necessidade a definição de valores fixos.
